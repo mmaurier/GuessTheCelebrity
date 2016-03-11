@@ -34,7 +34,7 @@
             android:layout_column="0"
             android:tag="0"
             android:text=""
-            android:id="@+id/button"
+            android:id="@+id/button0"
             android:onClick="celebChosen" />
         <Button
             android:layout_width="fill_parent"
@@ -43,7 +43,7 @@
             android:layout_column="0"
             android:tag="1"
             android:text=""
-            android:id="@+id/button2"
+            android:id="@+id/button1"
             android:onClick="celebChosen" />
         <Button
             android:layout_width="fill_parent"
@@ -52,7 +52,7 @@
             android:layout_column="0"
             android:tag="2"
             android:text=""
-            android:id="@+id/button3"
+            android:id="@+id/button2"
             android:onClick="celebChosen" />
         <Button
             android:layout_width="fill_parent"
@@ -61,7 +61,7 @@
             android:layout_column="0"
             android:tag="3"
             android:text=""
-            android:id="@+id/button4"
+            android:id="@+id/button3"
             android:onClick="celebChosen" />
     </GridLayout>
 </RelativeLayout>
